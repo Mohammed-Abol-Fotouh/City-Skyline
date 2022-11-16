@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./imgs/Bondi1.png).
+![Desktop Screenshot](./City-Skyline.png).
 
 
 ### Links
